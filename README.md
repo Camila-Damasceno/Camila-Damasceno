@@ -1,8 +1,13 @@
+# Olá! Eu sou Camila Damasceno
 # 👋 Olá! Eu sou Camila Damasceno
 
-Sou uma **Analista de Dados em formação**, com foco em aprender e aplicar, na prática, os principais conceitos da área de dados. Atualmente participo do **Bootcamp de Analista de Dados da Generation**, onde venho desenvolvendo projetos voltados à **análise, limpeza, organização e apresentação de dados** utilizando Python.
+Sou uma **profissional em transição de carreira para a área de Dados**, com trajetória na **área cultural**, onde atuei como **gestora de projetos** e **docente** em cursos voltados para **práticas de escrita**.
 
-Este perfil reúne projetos criados durante meu processo de aprendizado, com o objetivo de **demonstrar minha evolução técnica, meu raciocínio analítico e minha capacidade de trabalhar com dados reais**, especialmente para oportunidades de nível iniciante.
+Tenho **graduação em Jornalismo pela UFJF** e **mestrado e doutorado na área de Artes pela UNICAMP**, formações que contribuíram fortemente para o desenvolvimento de habilidades como **pensamento crítico, análise, organização de informações, comunicação clara e visão de processo** — competências que hoje aplico diretamente no campo da análise de dados.
+
+Atualmente, participo do **Bootcamp de Analista de Dados da Generation**, onde venho desenvolvendo projetos práticos focados em **análise, limpeza, organização, visualização e apresentação de dados**, utilizando ferramentas como Python, SQL, Excel e Power BI.
+
+Este perfil reúne projetos criados durante meu processo de aprendizado, com o objetivo de **demonstrar minha evolução técnica, meu raciocínio analítico e minha capacidade de trabalhar com dados reais**, especialmente para oportunidades de **nível inicante/júnior**.
 
 ---
 
