@@ -1,5 +1,4 @@
 # Olá! Eu sou Camila Damasceno
-# 👋 Olá! Eu sou Camila Damasceno
 
 Sou uma **profissional em transição de carreira para a área de Dados**, com trajetória na **área cultural**, onde atuei como **gestora de projetos** e **docente** em cursos voltados para **práticas de escrita**.
 
