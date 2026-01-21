@@ -37,9 +37,10 @@ Busco uma **oportunidade como Analista de Dados Júnior / Iniciante**, onde eu p
 ## 📂 O que você vai encontrar neste GitHub
 
 * Projetos de **análise de dados** desenvolvidos durante o bootcamp
-* Exercícios práticos de **limpeza e padronização de dados**
+* Exercícios práticos de **limpeza, padronização e visualização de dados** em Excel
 * Uso de **groupby**, **merge** e **tabelas dinâmicas** em Python
 * Notebooks comentados, pensados também como material de estudo
+* *Visualização de dados* em dashboards desenvolvidos em Power BI e Tableau
 
 Cada projeto possui um README explicativo, descrevendo o contexto, as etapas e os aprendizados envolvidos.
 
